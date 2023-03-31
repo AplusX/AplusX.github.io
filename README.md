@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AplusX&show_icons=true&theme=radical)
+![Haojie Cheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=AplusX&show_icons=true&theme=radical)
 
 Hi 👋! Here is **Haojie Cheng**, a third-year Ph.D. student at USTC. 
 
